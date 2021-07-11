@@ -1,6 +1,6 @@
 # Quem sou eu?
 
-:computer: &ensp; Trabalho atualmente na Fortes Tecnologia onde gerencio um time no qual desenvolvemos um [SaaS para o mercado Contábil](https://www.fortestecnologia.com.br/fortesweb/) com as tecnologias: Ruby, React, TypeScript.   
+:computer: &ensp; Trabalho atualmente na [Pravaler](https://www.pravaler.com.br/) onde gerencio times que cuidam da aquisição e jornada do aluno.   
 
 :mortar_board: &ensp; Faz 15 anos que trabalho com desenvolvimento, sou formado em Ciências da Computação pela [FLF](https://flf.edu.br/) e em 2020 finalizei o [MBA em Tecnologia para Negócios: AI, Data Science e Big Data na PUCRS.](https://online.pucrs.br/pos/mba-tecnologia-para-negocios-inteligencia-artificial-data-science-big-data) 
 
