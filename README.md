@@ -1,6 +1,7 @@
 # Quem sou eu? Who am I?
 
 :computer: &ensp; Trabalho atualmente na [Pravaler](https://www.pravaler.com.br/) onde gerencio times que cuidam da aquisição e jornada do aluno.
+
 :computer: &ensp; I currently work at [Pravaler](https://www.pravaler.com.br/) where I manage teams that take care of student acquisition and journey.
 
 :mortar_board: &ensp; Faz 15 anos que trabalho com desenvolvimento, sou formado em Ciências da Computação pela [FLF](https://flf.edu.br/) e em 2020 finalizei o [MBA em Tecnologia para Negócios: AI, Data Science e Big Data na PUCRS.](https://online.pucrs.br/pos/mba-tecnologia-para-negocios-inteligencia-artificial-data-science-big-data) 
