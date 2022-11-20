@@ -6,7 +6,7 @@
 
 :computer: &ensp; I currently work at [Pravaler](https://www.pravaler.com.br/) where I manage teams that take care of student acquisition and journey.
 
-:mortar_board: &ensp; I am a Software Engineer with over 15 years of experience, I'm graduated Computer Science by [FLF](https://flf.edu.br/) and MBA: AI, Data Science e Big Data by PUCRS.
+:mortar_board: &ensp; I am a Software Engineer with over 15 years of experience, I'm graduated Computer Science at [FLF](https://flf.edu.br/) and MBA: AI, Data Science e Big Data at PUCRS.
 
 :technologist: &ensp; Sou um amante das metodologias ágeis. Durante muito tempo fui coordenador da [XPCE](https://www.milfont.org/tech/category/xpce/) onde organizamos vários eventos que fortaleceram a comunidade Ágil no Ceará. Sempre gostei de compartilhar conhecimento e sempre busco motivar os novos desenvolvedores. 
 
