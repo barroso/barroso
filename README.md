@@ -1,8 +1,11 @@
-# Quem sou eu?
+# Quem sou eu? Who am I?
 
-:computer: &ensp; Trabalho atualmente na [Pravaler](https://www.pravaler.com.br/) onde gerencio times que cuidam da aquisição e jornada do aluno.   
+:computer: &ensp; Trabalho atualmente na [Pravaler](https://www.pravaler.com.br/) onde gerencio times que cuidam da aquisição e jornada do aluno.
+:computer: &ensp; I currently work at [Pravaler](https://www.pravaler.com.br/) where I manage teams that take care of student acquisition and journey.
 
 :mortar_board: &ensp; Faz 15 anos que trabalho com desenvolvimento, sou formado em Ciências da Computação pela [FLF](https://flf.edu.br/) e em 2020 finalizei o [MBA em Tecnologia para Negócios: AI, Data Science e Big Data na PUCRS.](https://online.pucrs.br/pos/mba-tecnologia-para-negocios-inteligencia-artificial-data-science-big-data) 
+
+:mortar_board: &ensp; I am a Software Engineer with over 15 years of experience, I'm graduated Computer Science by [FLF](https://flf.edu.br/) and MBA: AI, Data Science e Big Data by PUCRS.
 
 :technologist: &ensp; Sou um amante das metodologias ágeis. Durante muito tempo fui coordenador da [XPCE](https://www.milfont.org/tech/category/xpce/) onde organizamos vários eventos que fortaleceram a comunidade Ágil no Ceará. Sempre gostei de compartilhar conhecimento e sempre busco motivar os novos desenvolvedores. 
 
